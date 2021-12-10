@@ -45,6 +45,7 @@ echo "Connexion à la base de données réussie";
 <p class="categorie"> <a href="deconnexion.php"><img src="https://habbofont.net/font/habbo_new/github.gif"></a></p>
 <p class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Habbo-logo.png/320px-Habbo-logo.png"<p>
 <p class="categorie"> <a href="index.php"><img src="https://habbofont.net/font/habbo_new/accueil.gif"></a></p>
+<p class="categorie"> <a href="connexion.php"><img src="https://habbofont.net/font/habbo_new/connexion.gif"></a></p>
 
 
 
